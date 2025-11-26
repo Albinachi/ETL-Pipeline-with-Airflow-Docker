@@ -1,0 +1,3 @@
+pandas
+scipy
+psycopg2-binary
